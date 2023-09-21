@@ -1,6 +1,8 @@
 # Insect Catch Game
 
 Welcome to **Catch The Insect**, an interactive web game where you can catch your favorite insects and see how many you can collect before the game gets too difficult. This project combines HTML, CSS, and JavaScript to create a fun and challenging experience for players.
+## Deployed Link
+[Deployed link here](https://mdawood11.github.io/insect-catch-game/)
 
 ## Demo
 
